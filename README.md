@@ -10,4 +10,9 @@ A very basic CRUD for learning using php and mySQL
 
 # About Project
 
-```This project contains Create, Read, Update, and Delete```
+```This project contains Create, Read, Update, and Delete and check```
+
+# It Contains
+```
+index.php, delete.php, edit.php, update.php
+```
